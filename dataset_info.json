@@ -1,0 +1,20 @@
+{
+  "name": "Most Safe Language Benchmark (MSL-Bench)",
+  "semantic_groups": 209,
+  "prompts": 836,
+  "languages": [
+    "en",
+    "zh",
+    "ar",
+    "bn"
+  ],
+  "groups_per_category": {
+    "Alignment Robustness": 43,
+    "Contextual Safety Reasoning": 37,
+    "Professional Safety Boundary": 43,
+    "Fairness & Bias Control": 43,
+    "Direct Harm Refusal": 43
+  },
+  "sha256_json": "af0422b003bb244b74820b16a35fbc75f1b7dc995f508a3da7047d19b14d1669",
+  "release_date": "2026-11-06"
+}
